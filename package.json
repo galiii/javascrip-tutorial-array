@@ -1,0 +1,19 @@
+{
+  "name": "javascrip-tutorial-array",
+  "version": "1.0.0",
+  "description": "The tutorial in array in js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galiii/javascrip-tutorial-array.git"
+  },
+  "author": "Gali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galiii/javascrip-tutorial-array/issues"
+  },
+  "homepage": "https://github.com/galiii/javascrip-tutorial-array#readme"
+}
